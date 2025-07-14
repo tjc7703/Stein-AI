@@ -1,0 +1,5 @@
+---
+description: Stein
+globs: *
+alwaysApply: false
+---

@@ -1,0 +1,6 @@
+{
+  "default_action": "safe_shutdown",
+  "backup_enabled": true,
+  "confirmation_required": false,
+  "detailed_logging": true
+}

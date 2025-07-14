@@ -1,0 +1,13 @@
+{
+  "shutdown_time": "2025-07-13T00:48:25.158424",
+  "shutdown_method": "auto_safe_shutdown",
+  "user": "Stein",
+  "preferences": {
+    "default_action": "safe_shutdown",
+    "backup_enabled": true,
+    "confirmation_required": false,
+    "detailed_logging": true
+  },
+  "status": "completed",
+  "note": "Stein님 선호: 항상 안전종료"
+}

@@ -1,0 +1,9 @@
+{
+  "development_style": "smart_balance",
+  "code_preference": "modular_detailed",
+  "efficiency_mode": "stein_custom",
+  "auto_optimization": true,
+  "korean_comments": true,
+  "emoji_friendly": true,
+  "performance_tracking": true
+}
