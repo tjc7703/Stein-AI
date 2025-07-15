@@ -1,0 +1,72 @@
+{
+  "commands": {
+    "cmd_1752558479_78c2d2b5": {
+      "command_id": "cmd_1752558479_78c2d2b5",
+      "original_command": "간단하게 웹사이트 만들어줘",
+      "optimized_command": "간단하게 웹사이트 만들어줘 요약된 형태로 간단하게 설명해주세요. 간단하고 효율적으로 구현해주세요.",
+      "command_type": "creation",
+      "complexity_level": 1,
+      "execution_time": 0.003651142120361328,
+      "success_rate": 0.7,
+      "user_satisfaction": 0.7,
+      "created_at": "2025-07-15 14:47:59.524228",
+      "last_used": "2025-07-15 14:47:59.524236",
+      "usage_count": 0
+    },
+    "cmd_1752558479_8e5da388": {
+      "command_id": "cmd_1752558479_8e5da388",
+      "original_command": "자세히 AI 시스템 분석해줘",
+      "optimized_command": "자세히 AI 시스템 분석해줘 모든 과정을 자세히 설명하면서 진행해주세요. 체계적이고 안정적인 방식으로 구현해주세요.",
+      "command_type": "analysis",
+      "complexity_level": 2,
+      "execution_time": 0.000308990478515625,
+      "success_rate": 0.7,
+      "user_satisfaction": 0.7,
+      "created_at": "2025-07-15 14:47:59.524716",
+      "last_used": "2025-07-15 14:47:59.524720",
+      "usage_count": 0
+    },
+    "cmd_1752558479_e38dd939": {
+      "command_id": "cmd_1752558479_e38dd939",
+      "original_command": "Stein님답게 혁신적인 앱 개발해줘",
+      "optimized_command": "Stein님답게 혁신적인 앱 개발해줘 Stein님만의 독특한 방식으로 개발해주세요. 체계적이고 안정적인 방식으로 구현해주세요.",
+      "command_type": "creation",
+      "complexity_level": 2,
+      "execution_time": 0.00010323524475097656,
+      "success_rate": 0.7,
+      "user_satisfaction": 0.7,
+      "created_at": "2025-07-15 14:47:59.524930",
+      "last_used": "2025-07-15 14:47:59.524933",
+      "usage_count": 0
+    },
+    "cmd_1752558479_91a75e1f": {
+      "command_id": "cmd_1752558479_91a75e1f",
+      "original_command": "효율적으로 데이터베이스 최적화해줘",
+      "optimized_command": "효율적으로 데이터베이스 최적화해줘 최고 효율성과 성능을 고려하여 구현해주세요. 간단하고 효율적으로 구현해주세요.",
+      "command_type": "optimization",
+      "complexity_level": 1,
+      "execution_time": 0.00010204315185546875,
+      "success_rate": 0.7,
+      "user_satisfaction": 0.7,
+      "created_at": "2025-07-15 14:47:59.525125",
+      "last_used": "2025-07-15 14:47:59.525127",
+      "usage_count": 0
+    },
+    "cmd_1752558479_762f5f0f": {
+      "command_id": "cmd_1752558479_762f5f0f",
+      "original_command": "품질 높은 API 설계해줘",
+      "optimized_command": "품질 높은 API 설계해줘 완벽한 기능과 에러 처리를 포함해주세요. 체계적이고 안정적인 방식으로 구현해주세요.",
+      "command_type": "creation",
+      "complexity_level": 2,
+      "execution_time": 0.0001010894775390625,
+      "success_rate": 0.7,
+      "user_satisfaction": 0.7,
+      "created_at": "2025-07-15 14:47:59.525297",
+      "last_used": "2025-07-15 14:47:59.525300",
+      "usage_count": 0
+    }
+  },
+  "automation_rules": {},
+  "learning_history": [],
+  "saved_at": "2025-07-15T14:47:59.526412"
+}
